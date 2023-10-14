@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 In Progress
 
-<h2>📃Certifications</h2>
+<h2>📃Certifications:</h2>
 Qualys Vulnerability Management Detection & Response
 
 The Definitive GRC Analyst Master Class
