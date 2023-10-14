@@ -6,6 +6,8 @@ In Progress
 <h2>📃Certifications</h2>
 Qualys Vulnerability Management Detection & Response
 
+The Definitive GRC Analyst Master Class
+
 
 <h2> 🤳 Connect with me:</h2>
 
