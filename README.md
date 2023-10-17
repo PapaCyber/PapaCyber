@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>[Qualys VM Scanning Project](https://github.com/PapaCyber/QualysHomeLab)</b>
+- <b>[Qualys Vulnerability Management Project](https://github.com/PapaCyber/QualysHomeLab)</b>
 <h2>📃Certifications:</h2>
 Qualys Vulnerability Management Detection & Response
 
