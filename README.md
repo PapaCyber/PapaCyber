@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>[Qualys Vulnerability Management Project](https://github.com/PapaCyber/QualysHomeLab)</b>
-- <b>[Data Flow Diagram Project](https://github.com/PapaCyber/AcmeDataFlowDiagram)</b>
-- <b>Microsoft Sentinel  SEIM Project (In-Progress)</b>
+- <b>[Qualys Vulnerability Management](https://github.com/PapaCyber/QualysHomeLab)</b>
+- <b>[Microsoft Sentinel SEIM Honeypot](https://github.com/PapaCyber/Sentinel-Lab)</b>
+- <b>[Data Flow Diagram](https://github.com/PapaCyber/AcmeDataFlowDiagram)</b>
 <h2>📃Certifications:</h2>
 Qualys Vulnerability Management Detection & Response
 
