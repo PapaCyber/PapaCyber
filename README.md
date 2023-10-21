@@ -1,6 +1,9 @@
-<h1>Hi, I'm Michael </h1>
+<h1>Hi, I'm Michael! 
+<BR>
+  <BR>
+Welcome to my GitHub portfolio! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻Projects:</h2>
 
 - <b>[Qualys Vulnerability Management](https://github.com/PapaCyber/QualysHomeLab)</b>
 - <b>[Microsoft Sentinel SEIM Honeypot](https://github.com/PapaCyber/Sentinel-Lab)</b>
