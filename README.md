@@ -9,6 +9,8 @@ Welcome to my GitHub portfolio! </h1>
 - <b>[Microsoft Sentinel SEIM Honeypot](https://github.com/PapaCyber/Sentinel-Lab)</b>
 - <b>[Data Flow Diagram](https://github.com/PapaCyber/AcmeDataFlowDiagram)</b>
 <h2>📃Certifications:</h2>
+Google Cybersecurity Professional Certifcate (EST End of December)
+
 Qualys Vulnerability Management Detection & Response
 
 The Definitive GRC Analyst Master Class
