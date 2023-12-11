@@ -5,6 +5,7 @@ Welcome to my GitHub portfolio! </h1>
 
 <h2>👨‍💻Projects:</h2>
 
+- <b>[Configuring File Permissions With Linux](https://github.com/PapaCyber/FilePermissions)</b>
 - <b>[Qualys Vulnerability Management](https://github.com/PapaCyber/QualysHomeLab)</b>
 - <b>[Microsoft Sentinel SEIM Honeypot](https://github.com/PapaCyber/Sentinel-Lab)</b>
 - <b>[Data Flow Diagram](https://github.com/PapaCyber/AcmeDataFlowDiagram)</b>
