@@ -7,11 +7,11 @@ Welcome to my GitHub portfolio! </h1>
 
 - <b>[Configuring File Permissions With Linux](https://github.com/PapaCyber/FilePermissions)</b>
 - <b>[Qualys Vulnerability Management](https://github.com/PapaCyber/QualysHomeLab)</b>
-- <b>[Microsoft Sentinel SEIM Honeypot](https://github.com/PapaCyber/Sentinel-Lab)</b>
+- <b>[Microsoft Sentinel SIEM Honeypot](https://github.com/PapaCyber/Sentinel-Lab)</b>
 - <b>[Data Flow Diagram](https://github.com/PapaCyber/AcmeDataFlowDiagram)</b>
 <h2>📃Certifications:</h2>
 
-Google Cybersecurity Professional Certifcate (EST End of December)
+Google Cybersecurity Professional Certificate (EST End of December)
 
 Qualys Vulnerability Management Detection & Response
 
