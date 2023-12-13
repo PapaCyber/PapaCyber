@@ -5,6 +5,7 @@ Welcome to my GitHub portfolio! </h1>
 
 <h2>👨‍💻Projects:</h2>
 
+- <b>[Applying Filters with SQL Queries](https://github.com/PapaCyber/SQL-Queries) (In Progress)</b>
 - <b>[Configuring File Permissions With Linux](https://github.com/PapaCyber/FilePermissions)</b>
 - <b>[Qualys Vulnerability Management](https://github.com/PapaCyber/QualysHomeLab)</b>
 - <b>[Microsoft Sentinel SIEM Honeypot](https://github.com/PapaCyber/Sentinel-Lab)</b>
