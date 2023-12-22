@@ -1,9 +1,9 @@
 <h1>Hi, I'm Michael! 
 <BR>
   <BR>
-Welcome to my GitHub portfolio! </h1>
+Welcome to my GitHub! </h1>
 
-<img src="https://cdn.pixabay.com/photo/2023/08/03/17/08/ai-generated-8167583_1280.jpg" height="75%" width="75%"/>
+<img src="https://imgur.com/M4VebCt.png" height="80%" width="80%"/>
 
 <h2>👨‍💻Projects:</h2>
 
