@@ -1,7 +1,4 @@
-<h1>Hi, I'm Michael! 
-<BR>
-  <BR>
-Welcome to my GitHub! </h1>
+<h1>Welcome to my GitHub! </h1>
 
 <img src="https://imgur.com/M4VebCt.png" height="80%" width="80%"/>
 
