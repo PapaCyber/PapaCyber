@@ -5,6 +5,7 @@ Welcome to my GitHub portfolio! </h1>
 
 <h2>👨‍💻Projects:</h2>
 
+- <b>[Update Files with Python Algorithim](https://github.com/PapaCyber/PythonUpdateAlgo) </b>
 - <b>[Applying Filters With SQL Queries](https://github.com/PapaCyber/SQL-Queries) </b>
 - <b>[Configuring File Permissions With Linux](https://github.com/PapaCyber/FilePermissions)</b>
 - <b>[Qualys Vulnerability Management](https://github.com/PapaCyber/QualysHomeLab)</b>
