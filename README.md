@@ -3,6 +3,8 @@
   <BR>
 Welcome to my GitHub portfolio! </h1>
 
+<img src="https://cdn.pixabay.com/photo/2023/08/03/17/08/ai-generated-8167583_1280.jpg" height="75%" width="75%"/>
+
 <h2>👨‍💻Projects:</h2>
 
 - <b>[Update Files with Python Algorithim](https://github.com/PapaCyber/PythonUpdateAlgo) </b>
