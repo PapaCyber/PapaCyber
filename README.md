@@ -12,12 +12,9 @@
 - <b>[Data Flow Diagram](https://github.com/PapaCyber/AcmeDataFlowDiagram)</b>
 <h2>📃Certifications:</h2>
 
-Google Cybersecurity Professional Certificate (EST End of December)
+Comptia SEC+ (in progress)
 
-Qualys Vulnerability Management Detection & Response
-
-The Definitive GRC Analyst Master Class
-
+Google Cybersecurity Professional Certificate 
 
 <h2> 🤳 Connect with me:</h2>
 
