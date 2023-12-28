@@ -12,7 +12,7 @@
 - <b>[Data Flow Diagram](https://github.com/PapaCyber/AcmeDataFlowDiagram)</b>
 <h2>📃Certifications:</h2>
 
-Comptia SEC+ (in progress)
+CompTIA SEC+ (in progress)
 
 Google Cybersecurity Professional Certificate 
 
